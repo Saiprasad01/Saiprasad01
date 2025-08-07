@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saiprasad01
 - 👀 I’m interested in New Technologies
-- 🌱 I’m currently Computer science student
+- 🌱 I’m currently working in Jio PlatForms Limited as a FrontEnd Developer.
 - 📫 How to reach me ysaiprasad345@gmail.com
 
 <!---
